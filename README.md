@@ -1,2 +1,2 @@
-# -Users-kiranlimbu-Desktop-github-python-project
+# python-project
 Python exercise
